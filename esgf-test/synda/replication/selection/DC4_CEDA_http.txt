@@ -1,0 +1,7 @@
+# 23 file(s) will be added to the download queue.
+# Once downloaded, 20.5 MB of additional disk space will be used.mip_era=CMIP6mip_era=CMIP6
+activity_id=HighResMIP
+table_id=Lmon
+institution_id=CNRM-CERFACS
+protocol=http
+data_node=esgf-data-fedcheck.ceda.ac.uk

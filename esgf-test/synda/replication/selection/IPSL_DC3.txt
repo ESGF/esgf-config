@@ -1,0 +1,3 @@
+mip_era=CMIP6
+institution_id=IPSL
+experiment_id=piControl

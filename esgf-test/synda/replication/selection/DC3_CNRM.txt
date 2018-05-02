@@ -1,0 +1,2 @@
+mip_era=CMIP6
+data_node=esg1.umr-cnrm.fr

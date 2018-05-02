@@ -1,0 +1,7 @@
+# 621 file(s) will be added to the download queue. 
+# Once downloaded, 985.3 GB of additional disk space will be used.
+activity_id=HighResMIP
+table_id=Lmon
+institution_id=MOHC
+protocol=gridftp
+data_node=esgf-data-fedcheck.ceda.ac.uk

@@ -1,0 +1,8 @@
+project="CMIP5"
+model="ACCESS1.0"
+experiment="amip"
+searchapi_host="esgf.nci.org.au
+data_node="esgf.nci.org.au"
+protocol=gridftp
+latest=true
+replica=false

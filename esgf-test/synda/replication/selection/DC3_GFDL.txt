@@ -1,0 +1,2 @@
+mip_era=CMIP6
+data_node=esgf-node.gfdl.noaa.gov

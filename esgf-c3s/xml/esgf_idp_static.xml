@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<idp_whitelist xmlns="http://www.esgf.org/whitelist">
+
+    <!-- Africa -->
+
+    <!-- America -->
+
+    <!-- Asia -->
+
+    <!-- Australia -->
+
+    <!-- Europe -->
+    <value>https://esgf-node.ipsl.upmc.fr/esgf-idp/idp/openidServer.htm</value>
+    <value>https://esgf-data.dkrz.de/esgf-idp/idp/openidServer.htm</value>
+    <value>https://ceda.ac.uk/OpenID/Provider/server</value>
+
+</idp_whitelist>
