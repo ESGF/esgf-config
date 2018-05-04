@@ -1,0 +1,8 @@
+# 183 file(s) will be added to the download queue.
+# Once downloaded, 918.9 GB of additional disk space will be used.
+mip_era=CMIP6
+activity_id=CMIP
+institution_id=CNRM-CERFACS
+experiment_id=piControl
+protocol=http
+data_node=esg1.umr-cnrm.fr
