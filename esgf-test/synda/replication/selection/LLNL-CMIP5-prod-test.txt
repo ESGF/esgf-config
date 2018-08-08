@@ -15,5 +15,5 @@ realm=atmos
 cmor_table=Amon
 ensemble=r1i1p1 r2i1p1 r3i1p1
 
-data_node=esgf-node.llnl.gov
+data_node=aims3.llnl.gov
 protocol=gridftp
