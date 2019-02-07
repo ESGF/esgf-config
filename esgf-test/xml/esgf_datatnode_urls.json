@@ -1,0 +1,2 @@
+{ "aims3.llnl.gov": "aims2.llnl.gov:8080/cgi-bin/cdat_to_idx_create.cgi",
+ "pcmdi7.llnl.gov": "aims2.llnl.gov:8080/cgi-bin/cdat_to_idx_create.cgi" }
